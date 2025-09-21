@@ -1,4 +1,3 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIORQR9ek4YHhyGz30VKaQs3a/mv1wCKD2lSoiDXEF2NK Leinad@Ubuntucoder
 
 [![Build Status](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages)](https://travis-ci.org/webrtc/samples/)
 
