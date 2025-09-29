@@ -1,4 +1,4 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICpAkzDxQFmxQ3qeCTmtg2gpTZIrwtHdzsS/IHAUf0ly root@srv1031751
+git@gitlab.com:creware-development/cckglobal-website.git
 
 [![Build Status](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages)](https://travis-ci.org/webrtc/samples/)
 
