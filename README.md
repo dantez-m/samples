@@ -1,4 +1,4 @@
-
+git@gitlab.com:creware-development/cckglobal-website.git
 
 [![Build Status](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages)](https://travis-ci.org/webrtc/samples/)
 
