@@ -1,5 +1,12 @@
 
-https://chatgpt.com/s/t_68db607bd4248191988f0da945d9a924
+docker run -d \
+  --name cck_postgres \
+  -e POSTGRES_USER=root \
+  -e POSTGRES_PASSWORD=eXtRWnAo6WWrzPWx85VgRsAR169a7C2Q \
+  -e POSTGRES_DB=cck_global \
+  -p 5432:5432 \
+  postgres:15
+
 
 [![Build Status](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages)](https://travis-ci.org/webrtc/samples/)
 
