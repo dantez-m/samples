@@ -1,4 +1,4 @@
-git@gitlab.com:creware-development/cckglobal-website.git
+[git@gitlab.com:creware-development/cckglobal-website.git](https://chatgpt.com/s/t_68db607bd4248191988f0da945d9a924)
 
 [![Build Status](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages)](https://travis-ci.org/webrtc/samples/)
 
