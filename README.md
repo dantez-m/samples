@@ -7,6 +7,8 @@ docker run -d \
   -p 5432:5432 \
   postgres:15
 
+  new-backend-strapi
+
   git@gitlab.com:creware-development/cckglobal-website.git
 
 
