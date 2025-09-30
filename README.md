@@ -7,6 +7,8 @@ docker run -d \
   -p 5432:5432 \
   postgres:15
 
+  git@gitlab.com:creware-development/cckglobal-website.git
+
 
 [![Build Status](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages)](https://travis-ci.org/webrtc/samples/)
 
