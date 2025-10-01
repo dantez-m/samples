@@ -1,11 +1,5 @@
 
-PGPASSWORD="eXtRWnAo6WWrzPWx85VgRsAR169a7C2Q" pg_restore \
-  -h dpg-d1hqbpje5dus739ajg2g-a.oregon-postgres.render.com \
-  -U root \
-  -d cck_global \
-  --no-owner \
-  --no-acl \
-  --verbose strapi-backup.dump
+https://drive.google.com/drive/folders/12ugLBl86r3evaN85Vqp_JGFZH93YkLF_?usp=sharing
 
 
   new-backend-strapi
