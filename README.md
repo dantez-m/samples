@@ -1,6 +1,11 @@
 
-https://drive.google.com/file/d/1kuf4ioFvxdPiaKnD5ScDpxJsy-xRPLpT/view?usp=sharing
-
+PGPASSWORD="eXtRWnAo6WWrzPWx85VgRsAR169a7C2Q" pg_restore \
+  -h dpg-d1hqbpje5dus739ajg2g-a.oregon-postgres.render.com \
+  -U root \
+  -d cck_global \
+  --no-owner \
+  --no-acl \
+  --verbose strapi-backup.dump
 
 
   new-backend-strapi
