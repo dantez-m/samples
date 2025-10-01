@@ -1,5 +1,8 @@
 
-https://drive.google.com/drive/folders/12ugLBl86r3evaN85Vqp_JGFZH93YkLF_?usp=sharing
+git remote rename origin old-origin
+git remote add origin git@gitlab.com:danielmwangicck/new-cck-website.git
+git push --set-upstream origin --all
+git push --set-upstream origin --tags
 
 
   new-backend-strapi
