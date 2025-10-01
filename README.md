@@ -1,12 +1,5 @@
 
-docker run -d \
-  --name cck_postgres \
-  --network cck_network \
-  -e POSTGRES_USER=root \
-  -e POSTGRES_PASSWORD=eXtRWnAo6WWrzPWx85VgRsAR169a7C2Q \
-  -e POSTGRES_DB=cck_global \
-  -p 5432:5432 \
-  postgres:15
+https://drive.google.com/file/d/1kuf4ioFvxdPiaKnD5ScDpxJsy-xRPLpT/view?usp=sharing
 
 
 
