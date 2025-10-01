@@ -4,6 +4,11 @@ git remote add origin git@gitlab.com:danielmwangicck/new-cck-website.git
 git push --set-upstream origin --all
 git push --set-upstream origin --tags
 
+git init --initial-branch=main
+git remote add origin git@gitlab.com:danielmwangicck/new-cck-website.git
+git add .
+git commit -m "Initial commit"
+git push --set-upstream origin main
 
   new-backend-strapi
 
