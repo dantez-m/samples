@@ -1,15 +1,5 @@
 
-https://youtube.com/@cckglobal-n3y?si=un1vH2eCb_LaoEli
 
-https://x.com/GlobalCck22008?t=uB7IZoMXOQ3PhiQJJF2zXQ&s=08
-
-https://www.linkedin.com/company/cck-global
-
-https://web.facebook.com/people/CCK-Global/61575158100749/#
-
-https://www.instagram.com/cckglobal/
-
-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
 
 
 [![Build Status](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages)](https://travis-ci.org/webrtc/samples/)
