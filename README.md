@@ -1,18 +1,13 @@
 
-git remote rename origin old-origin
-git remote add origin git@gitlab.com:danielmwangicck/new-cck-website.git
-git push --set-upstream origin --all
-git push --set-upstream origin --tags
+https://youtube.com/@cckglobal-n3y?si=un1vH2eCb_LaoEli
 
-git init --initial-branch=main
-git remote add origin git@gitlab.com:danielmwangicck/new-cck-website.git
-git add .
-git commit -m "Initial commit"
-git push --set-upstream origin main
+https://x.com/GlobalCck22008?t=uB7IZoMXOQ3PhiQJJF2zXQ&s=08
 
-  new-backend-strapi
+https://www.linkedin.com/company/cck-global
 
-  git@gitlab.com:creware-development/cckglobal-website.git
+https://web.facebook.com/people/CCK-Global/61575158100749/#
+
+https://www.instagram.com/cckglobal/
 
 
 [![Build Status](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages)](https://travis-ci.org/webrtc/samples/)
