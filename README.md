@@ -1,4 +1,4 @@
-git@gitlab.com:danielmwangicck/new-cck-website.git
+fV91M)qEy,r(87LjGa&h36{KI4t5?Y:%
 
 
 
