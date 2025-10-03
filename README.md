@@ -1,5 +1,11 @@
 fV91M)qEy,r(87LjGa&h36{KI4t5?Y:%
 
+git init --initial-branch=main
+git remote add origin git@gitlab.com:danielmwangicck/hdesk.git
+git add .
+git commit -m "Initial commit"
+git push --set-upstream origin main
+
 
 
 [![Build Status](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages)](https://travis-ci.org/webrtc/samples/)
