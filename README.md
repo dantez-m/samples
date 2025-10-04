@@ -1,4 +1,11 @@
-https://snipe-it.readme.io/docs/docker
+
+smtp-relay.brevo.com
+Port
+587
+Login
+920913001@smtp-brevo.com
+
+xsmtpsib-ca0f5e9bd5dbe24e2178d4bd060f71253dbe6c41988b7d0703abce142fdb03b3-sdq0LbUYZKxkmVX2
 
 
 
